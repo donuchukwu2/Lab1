@@ -7,7 +7,7 @@ package lab01length.conversion;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab01lengthConversion {
 
