@@ -7,7 +7,7 @@ package lab01multiplicationtable;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab01multiplicationtable {
 
