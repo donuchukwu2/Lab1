@@ -7,7 +7,7 @@ package lab01pairofdice;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab01pairofdice {
 
