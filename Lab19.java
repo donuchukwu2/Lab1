@@ -7,7 +7,7 @@ package lab1.pkg9;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab19 {
 
