@@ -7,7 +7,7 @@ package sequence.generator;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class SequenceGenerator {
 
