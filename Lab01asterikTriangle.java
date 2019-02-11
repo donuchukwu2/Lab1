@@ -7,7 +7,7 @@ package lab01asterik.triangle;
 import java.util.Scanner;
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab01asterikTriangle {
 
