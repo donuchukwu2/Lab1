@@ -7,7 +7,7 @@ package lab01pairofdiceq4;
 
 /**
  *
- * @author David
+ * @author Daniel
  */
 public class Lab01pairofdiceq4 {
 
